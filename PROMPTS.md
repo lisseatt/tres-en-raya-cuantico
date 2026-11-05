@@ -26,6 +26,19 @@ Asegúrate de tener instalado en tu computadora:
 
 3. "Rediseña la interfaz de usuario con una estética minimalista y profesional: fondo completamente blanco (#FFFFFF), tipografía limpia en negro, y sutiles acentos visuales en celeste y rosado para los jugadores X y O."
 
-4. "Añade soporte completo de accesibilidad (atributos ARIA, descripciones dinámicas y navegación completa por teclado usando las flechas direccionales y la tecla Enter) sin perder el foco visual ni la fluidez."
+4. Escribí el archivo README.md en español con estas seis partes:
 
-5. "Añade una mejora visual de alto nivel (efecto 'wow') a la interfaz en src/main.ts: implementa un efecto visual dinámico de 'rayo láser o pulso de energía cuántica' en color celeste y rosado que se active y recorra las casillas cuando un jugador forme una línea ganadora, asegurando animaciones fluidas y respetando prefers-reduced-motion."
+Nombre y la frase de mi ficha.
+Qué hace y cómo se usa, en tres líneas.
+El enlace para abrirlo.
+Cómo correrlo en otra máquina: los comandos exactos.
+Dejá este espacio en blanco con un comentario para que lo llene yo:
+   «Qué dirigí yo y qué error encontré probando».
+Declaración de autoría: qué herramienta usé, que el código lo generó un
+   agente de IA bajo mi dirección, y qué partes puedo explicar.
+
+No inventes nada en las partes 5 y 6: dejalas para que las complete yo.
+
+5. "Añade soporte completo de accesibilidad (atributos ARIA, descripciones dinámicas y navegación completa por teclado usando las flechas direccionales y la tecla Enter) sin perder el foco visual ni la fluidez."
+
+6.  "Añade una mejora visual de alto nivel (efecto 'wow') a la interfaz en src/main.ts: implementa un efecto visual dinámico de 'rayo láser o pulso de energía cuántica' en color celeste y rosado que se active y recorra las casillas cuando un jugador forme una línea ganadora, asegurando animaciones fluidas y respetando prefers-reduced-motion."
